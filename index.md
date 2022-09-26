@@ -1,7 +1,6 @@
 # Privacy Policy for Futsnipe
-One of the main priorities of The Futsnipe tool, accessible from Chrome web store, is the privacy of our visitors and users.
-We DO NOT collect any data or login or personal informations of user that use our chrome extension.
-If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+One of the main priorities of The Futsnipe tool, accessible from Chrome web store, is the privacy of our visitors and users. Futsnipe we only collect user login credentials futsnipe account used for authentication and account access only We DO NOT collect any other data of user that use our chrome extension. If you have additional questions or require more information about our Privacy Policy, do not hesitate to contact us.
+
 # Consent
 By using Futsnipe and our website, you hereby consent to our Privacy Policy and agree to its terms.
 # Information we collect
